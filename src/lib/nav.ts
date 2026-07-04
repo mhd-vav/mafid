@@ -2,6 +2,7 @@ export const PUBLIC_NAV = [
   { href: "/how-it-works", label: "نحوه کار" },
   { href: "/pricing", label: "تعرفه" },
   { href: "/sample-analysis", label: "نمونه تحلیل" },
+  { href: "/request-analysis", label: "درخواست تحلیل" },
   { href: "/faq", label: "سوالات متداول" },
   { href: "/contact", label: "تماس" },
 ] as const;
